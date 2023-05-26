@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "shape plan b",
+            "price": 150.2
+        },
+        {
+            "id": 2,
+            "name": "truck ind",
+            "price": 280.99
+        },
+        {
+            "id": 3,
+            "name": "lixa grizly",
+            "price": 90
+        }
+    ]
+}
